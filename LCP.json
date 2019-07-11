@@ -1,6 +1,5 @@
 {
   "id": "nodehog",
   "command": ["npm", "run", "start"],
-  "scale": 2,
-  "cpu": 3
+  "cpu": 1.5
 }

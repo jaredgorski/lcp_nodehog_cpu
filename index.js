@@ -1,2 +1,2 @@
 const NodeHog = require('nodehog');
-new NodeHog().start();
+new NodeHog('cpu').start();

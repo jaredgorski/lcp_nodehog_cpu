@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/jaredgorski/lcp_nodehog#readme",
   "dependencies": {
-    "nodehog": "^0.1.1"
+    "nodehog": "^0.1.2"
   }
 }
